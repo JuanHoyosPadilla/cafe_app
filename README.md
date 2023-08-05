@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Video de muestra
+https://github.com/JuanHoyosPadilla/cafe_app/assets/50926052/a7cadffd-f0b4-4fb7-a5fd-f37f01228115
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
